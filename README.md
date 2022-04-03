@@ -12,7 +12,7 @@
 🏠
 🌐
 
-And there's <b>much</b> that we can accomplish <em>together</em>.
+There's <b>so</b> much we can accomplish <em>together</em>.
 
 
 <br>🫂 I have experience with and a passion for community-focused programs and innitiatives.
