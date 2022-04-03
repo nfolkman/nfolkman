@@ -2,22 +2,23 @@
 
 
 
-
-<br>I'm :
-<br> - a<b> lover-of-life</b> 🌱
-<br> - a<b> dreamer</b> 🌄
-<br> - and a <b>systems thinker</b>
+<br>I'm...
+    <br>- a<b> lover-of-life</b> 🌱
+    <br>- a<b> dreamer</b> 🌄
+    <br>- and a <b>systems thinker</b>
 ⚡
 🚏
 🏠
 🌐
 
-There's <b>so</b> much we can accomplish <em>together</em>.
-
-
 <br>🫂 I have experience with and a passion for community-focused programs and initiatives.
-<br>🔭 Currently engaged in freelance and open-source development projects.
-<br>🚀 Looking to enter the full-time workforce - Summer 2022.
+
+🔭 Currently engaged in freelance and open-source development projects.
+
+🚀 Looking to enter the full-time workforce - Summer 2022.
+
+
+<br>There's <b>so</b> much we can accomplish <em>together</em>.
 
 
 
