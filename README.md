@@ -15,7 +15,7 @@
 There's <b>so</b> much we can accomplish <em>together</em>.
 
 
-<br>🫂 I have experience with and a passion for community-focused programs and innitiatives.
+<br>🫂 I have experience with and a passion for community-focused programs and initiatives.
 <br>🔭 Currently engaged in freelance and open-source development projects.
 <br>🚀 Looking to enter the full-time workforce - Summer 2022.
 
