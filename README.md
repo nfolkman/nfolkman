@@ -3,7 +3,7 @@
 
 
 
-<br>I'm:
+<br>I'm :
 <br> - a<b> lover-of-life</b> 🌱
 <br> - a<b> dreamer</b> 🌄
 <br> - and a <b>systems thinker</b>
