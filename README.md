@@ -23,7 +23,7 @@
 
 ---
 
-<br><br><b>🧰 Languages & Tools</b> <br />
+<br><b>🧰  Languages & Tools</b> <br />
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -38,7 +38,7 @@
 </p>
 
 
-<br><b>📈 My GitHub Stats</b><br />
+<br><b>📈  My GitHub Stats</b><br />
 
 <a href="http://www.github.com/nfolkman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nfolkman&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
