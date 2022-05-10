@@ -1,9 +1,12 @@
-### <p align="center"> <b>Hello there! 👋 My name's Nate.</b> </p> ###
+### <p align="center"> <b>Hey there! I'm Nate. 👋</b> </p> ###
+ <h6 align="center"> Software Engineer | 📍ATX </h6>
+
+----
 
 
 
-<br><p align ="center">I'm...
-    <br>- a<b> lover-of-life</b> 🌱
+<br><h3 align ="center">I am... </h3>
+    <p align="center">- a<b> lover-of-life</b> 🌱
     <br>- a<b> dreamer</b> 🌄
     <br>- and a <b>systems thinker</b>
 ⚡
