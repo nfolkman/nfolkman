@@ -1,4 +1,4 @@
-### <p align="center"> <b>Hey there! I'm Nate. 👋</b> </p> ###
+### <p align="center"> <b>Hey there! My name's Nate. 👋</b> </p> ###
  <h6 align="center"> Software Engineer | 📍ATX </h6>
 
 ----
