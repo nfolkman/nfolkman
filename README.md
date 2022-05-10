@@ -5,7 +5,7 @@
 
 
 
-<br><h3 align ="center">I am... </h3>
+<br><h3 align ="center"><strong>I am...</strong> </h3>
     <p align="center">- a<b> lover-of-life</b> 🌱
     <br>- a<b> dreamer</b> 🌄
     <br>- and a <b>systems thinker</b>
@@ -15,7 +15,7 @@
 🌐</p>
 
 
-<br><p align="center">🫂 I have experience with and a passion for community-focused programs and initiatives.</p>
+<br> <p align="center">🫂 I have experience with and a passion for community-focused programs and initiatives.</p>
 
 <p align="center">🔭 I'm currently engaged with freelance and open-source development projects.</p>
 
