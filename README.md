@@ -1,4 +1,4 @@
-### Hello, hello! 👋 I'm Nathan, but you can call me Nate. 
+### Hello, hello! 👋 My name's Nathan, but you can call me Nate. 
 
 
 
