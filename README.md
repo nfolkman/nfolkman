@@ -19,7 +19,7 @@
 
 <p align="center">🔭 I'm currently engaged with freelance and open-source development projects.</p>
 
-<p align="center">🚀 Looking to enter the full-time workforce - Summer 2022.</p>
+<p align="center">🚀 Looking to enter the full-time workforce - <b>Summer 2022</b>.</p>
 
 
 <p align="center"><br><br><b>There's <b>so</b> much we can accomplish <em>together</em>.</b> </p> <br>
