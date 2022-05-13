@@ -13,7 +13,9 @@
 ----
 <br>
 
-&ensp; &ensp; &ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; ![little prince and the fox](https://user-images.githubusercontent.com/98185555/168246849-ba9be9a3-4e35-429b-9403-13eebbdfb156.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/98185555/168246849-ba9be9a3-4e35-429b-9403-13eebbdfb156.gif">
+</p>
 
 <br>
 
