@@ -1,7 +1,7 @@
 ### <p align="center"> <b>Hey there! My name's Nate. 👋</b> </p> ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=16&duration=6250&center=true&width=450&lines=Software+Engineer++%7C+%F0%9F%93%8DATX" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=20&duration=6250&center=true&width=450&lines=Software+Engineer++%7C+%F0%9F%93%8DATX" >
 </p>
 
 
