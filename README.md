@@ -1,11 +1,22 @@
 ### <p align="center"> <b>Hey there! My name's Nate. 👋</b> </p> ###
- <h6 align="center"> Software Engineer | 📍ATX </h6>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=14&duration=6250&center=true&width=450&lines=Software+Engineer++%7C+%F0%9F%93%8DATX" >
+</p>
+
+
+
+<p align="center">
+  <a href="https://www.nathanfolkman.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio_-take_a_look-80BD9E" alt="Portfolio  - take a look"></a>
+</p>
 
 ----
+<br>
+
+&ensp; &ensp; &ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; ![little prince and the fox](https://user-images.githubusercontent.com/98185555/168246849-ba9be9a3-4e35-429b-9403-13eebbdfb156.gif)
 
 
-
-<br><h3 align ="center"><strong>I am...</strong> </h3>
+<h3 align ="center"><strong>I am...</strong> </h3>
     <p align="center">- a<b> lover-of-life</b> 🌱
     <br>- a<b> dreamer</b> 🌄
     <br>- and a <b>systems thinker</b>
@@ -23,6 +34,8 @@
 
 
 <p align="center"><br><br><b>There's <b>so</b> much we can accomplish <em>together</em>.</b> </p> <br>
+
+
 
 ---
 
@@ -45,7 +58,9 @@
 
 <p align="center"><a href="http://www.github.com/nfolkman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nfolkman&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
+<br>
+
 ---
 
  <p align="center"><b>Connect With Me!</b> </p>
- <p align="center"><br><a href="https://discord.com/users/NateF#7772" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> &ensp;&ensp;<a href="https://www.github.com/nfolkman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &ensp;&ensp;<a href="https://www.linkedin.com/in/nathan-folkman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &ensp;&ensp;<a href="https://www.polywork.com/folkman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> &ensp;&ensp;<a href="https://www.twitter.com/NathanFolkman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> </p>
+ <p align="center"><br><a href="https://discord.com/users/NateF#7772" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  &ensp;&ensp;<a href="https://www.linkedin.com/in/nathan-folkman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &ensp;&ensp;<a href="https://www.polywork.com/folkman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> &ensp;&ensp;<a href="https://www.twitter.com/NathanFolkman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> </p> 
