@@ -1,4 +1,4 @@
- <h1 align="center"> <b>Hi there! My name's Nate. 👋</b> </h1> 
+ <h1 align="center"> <b>Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Nate.</b> </h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=22&duration=6250&center=true&width=450&lines=Software+Engineer++%7C+%F0%9F%93%8DATX" >
