@@ -61,9 +61,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/nfolkman"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfolkman&&layout=compact" alt="Top Languages" /></a>
+  <a href="https://github.com/nfolkman"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfolkman&&layout=compact&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=7da9f0" alt="Top Languages" /></a>
 </p>
-<p align="center"><a href="http://www.github.com/nfolkman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nfolkman&stroke=a2aab8&background=000000&ring=3382ed&fire=3382ed&currStreakNum=a2aab8&currStreakLabel=3382ed&sideNums=a2aab8&sideLabels=a2aab8&dates=a2aab8&hide_border=true" /></a></p>
+<p align="center"><a href="http://www.github.com/nfolkman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nfolkman&stroke=a2aab8&background=000000&ring=7da9f0&fire=3382ed&currStreakNum=7da9f0&currStreakLabel=7da9f0&sideNums=a2aab8&sideLabels=a2aab8&dates=a2aab8&hide_border=true" /></a></p>
 <br>
 
 <h3 align="center">🚧 Check Out Some Projects:</h3>
@@ -71,10 +71,10 @@
 <div align="center">
   <p>
     <a href="https://github.com/nfolkman/Climate-Hub">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Climate-Hub&bg_color=000000&text_color=a2aab8" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Climate-Hub&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=7da9f0" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/nfolkman/Homebase">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Homebase&bg_color=000000&text_color=a2aab8" alt="GitHub Stats" />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Homebase&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=7da9f0" alt="GitHub Stats" />
     </a>
   </p>
 </div>
