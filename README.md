@@ -66,7 +66,7 @@
 <p align="center"><a href="http://www.github.com/nfolkman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nfolkman&stroke=a2aab8&background=000000&ring=4a9ef7&fire=4a9ef7&currStreakNum=4a9ef7&currStreakLabel=4a9ef7&sideNums=4a9ef7&sideLabels=a2aab8&dates=a2aab8&hide_border=true" /></a></p>
 <br>
 
-<h3 align="center">🚧 Check Out Some Projects:</h3>
+<h3 align="center">🚧 Check Out Some Projects 🚧</h3>
 
 <div align="center">
   <p>
