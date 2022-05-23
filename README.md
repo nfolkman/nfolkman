@@ -30,18 +30,18 @@
 
 <br> <p align="center">🫂 I have experience with and a passion for community-focused programs and initiatives.</p>
 
-<p align="center">🔭 I'm currently engaged with freelance and open-source development projects.</p>
+<p align="center">🔭 I'm currently engaged in freelance and open-source development projects.</p>
 
 <p align="center">🚀 Looking to enter the full-time workforce - <b>Summer 2022</b>.</p>
 
 
-<p align="center"><br><br><b>There's <b>so</b> much we can accomplish <em>together</em>.</b> </p> <br>
+<h4 align="center"><br><br><b>There's <b>so</b> much we can accomplish <em>together</em>.</b> </h4> <br>
 
 
 <br>
 <br>
 
-<h2 align="center"><b>🛠️  Languages & Tools</b> </h2>
+<h3 align="center"><b>🛠️  Languages & Tools</b> </h3>
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -57,16 +57,27 @@
 
 <br>
 
-<h2 align="center"><b>📈  My GitHub Stats</b></h2>
+<h3 align="center"><b>📈 GitHub Stats</b></h3>
 
 
 <p align="center">
   <a href="https://github.com/nfolkman"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfolkman&&layout=compact" alt="Top Languages" /></a>
 </p>
-
-<p align="center"><a href="http://www.github.com/nfolkman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nfolkman&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
-
+<p align="center"><a href="http://www.github.com/nfolkman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nfolkman&stroke=a2aab8&background=000000&ring=3382ed&fire=3382ed&currStreakNum=a2aab8&currStreakLabel=3382ed&sideNums=a2aab8&sideLabels=a2aab8&dates=a2aab8&hide_border=true" /></a></p>
 <br>
+
+<h3 align="center">🚧 Check Out Some Projects:</h3>
+
+<div align="center">
+  <p>
+    <a href="https://github.com/nfolkman/Climate-Hub">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Climate-Hub&bg_color=000000&text_color=a2aab8" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/nfolkman/Homebase">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Homebase&bg_color=000000&text_color=a2aab8" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
 ---
 
