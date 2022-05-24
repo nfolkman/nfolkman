@@ -1,7 +1,7 @@
  <h1 align="center"> <b>Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Nate.</b> </h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&color=4a9ef7&size=22&duration=6250&center=true&width=450&lines=Software+Engineer++%7C+%F0%9F%93%8DATX" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&color=61dbfb&size=22&duration=6250&center=true&width=450&lines=Software+Engineer++%7C+%F0%9F%93%8DATX" >
 </p>
 
 
@@ -61,9 +61,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/nfolkman"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfolkman&&layout=compact&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=4a9ef7" alt="Top Languages" /></a>
+  <a href="https://github.com/nfolkman"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfolkman&&layout=compact&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="Top Languages" /></a>
 </p>
-<p align="center"><a href="http://www.github.com/nfolkman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nfolkman&stroke=a2aab8&background=000000&ring=4a9ef7&fire=4a9ef7&currStreakNum=4a9ef7&currStreakLabel=4a9ef7&sideNums=4a9ef7&sideLabels=a2aab8&dates=a2aab8&hide_border=true" /></a></p>
+<p align="center"><a href="http://www.github.com/nfolkman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nfolkman&stroke=a2aab8&background=000000&ring=61dbfb&fire=61dbfb&currStreakNum=61dbfb&currStreakLabel=61dbfb&sideNums=61dbfb&sideLabels=a2aab8&dates=a2aab8&hide_border=true" /></a></p>
 <br>
 
 <h3 align="center">🚧 Check Out Some Projects 🚧</h3>
@@ -71,10 +71,10 @@
 <div align="center">
   <p>
     <a href="https://github.com/nfolkman/Climate-Hub">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Climate-Hub&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=4a9ef7" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Climate-Hub&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/nfolkman/Homebase">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Homebase&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=4a9ef7" alt="GitHub Stats" />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Homebase&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="GitHub Stats" />
     </a>
   </p>
 </div>
