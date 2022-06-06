@@ -76,6 +76,9 @@
     <a href="https://github.com/nfolkman/Homebase">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Homebase&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/nfolkman/scraper-bot">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=scraper-bot&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 
