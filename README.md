@@ -77,7 +77,7 @@
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Homebase&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="GitHub Repo" />
     </a>
     <a href="https://github.com/nfolkman/Task-Manager-App">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Scraper-Bot&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="Github Repo" />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Task-Manager-App&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="Github Repo" />
     </a>
   </p>
 </div>
