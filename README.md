@@ -78,11 +78,11 @@
     <a href="https://github.com/nfolkman/Homebase">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Homebase&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="GitHub Repo" />
     </a>
+    <a href="https://github.com/nfolkman/reading-tracker-w-auth">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=reading-tracker-w-auth&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="Github Repo" />
+    </a>
     <a href="https://github.com/nfolkman/User-Management-System">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=User-Management-System&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="Github Repo" />
-    </a>
-    <a href="https://github.com/nfolkman/article-scraping">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=article-scraping&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="Github Repo" />
     </a>
   </p>
 </div>
