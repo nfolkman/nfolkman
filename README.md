@@ -34,10 +34,7 @@
 
 <p align="center">🔭 I'm currently engaged in freelance and open-source development projects.</p>
 
-<p align="center">🚀 Looking to enter the full-time workforce - <b>Summer 2022</b>.</p>
-
-
-<h4 align="center"><br><br><b>There's <b>so</b> much we can accomplish <em>together</em>.</b> </h4> <br>
+<p align="center">🚀 Excited to build the future <b>together</b>!</p>
 
 
 <br>
@@ -90,4 +87,4 @@
 ---
 
  <h3 align="center">Connect With Me! </h3>
- <p align="center"><a href="https://discord.com/users/NateF#7772" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  &ensp;&ensp;<a href="https://www.linkedin.com/in/nathan-folkman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &ensp;&ensp;<a href="https://www.polywork.com/folkman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> &ensp;&ensp;<a href="https://www.twitter.com/NathanFolkman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> </p> 
+ <p align="center"><a href="https://discord.com/users/NateF#7772" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  &ensp;&ensp;<a href="https://www.linkedin.com/in/nathan-folkman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &ensp;&ensp;<a href="https://www.twitter.com/NathanFolkman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> </p> 
