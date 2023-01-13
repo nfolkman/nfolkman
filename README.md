@@ -60,7 +60,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/nfolkman"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfolkman&&layout=compact&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="Top Languages" /></a>
+  <a href="https://github.com/nfolkman"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nfolkman&&layout=compact&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="Top Languages" /></a>
 </p>
 <p align="center"><a href="http://www.github.com/nfolkman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nfolkman&stroke=a2aab8&background=000000&ring=61dbfb&fire=61dbfb&currStreakNum=61dbfb&currStreakLabel=61dbfb&sideNums=61dbfb&sideLabels=a2aab8&dates=a2aab8&hide_border=true" /></a></p>
 <br>
@@ -70,16 +70,16 @@
 <div align="center">
   <p>
     <a href="https://github.com/nfolkman/Climate-Hub">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Climate-Hub&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="GitHub Repo" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nfolkman&repo=Climate-Hub&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="GitHub Repo" />
     </a>
     <a href="https://github.com/nfolkman/Homebase">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Homebase&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="GitHub Repo" />
+     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nfolkman&repo=Homebase&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="GitHub Repo" />
     </a>
     <a href="https://github.com/nfolkman/reading-tracker-w-auth">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=reading-tracker-w-auth&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="Github Repo" />
+     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nfolkman&repo=reading-tracker-w-auth&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="Github Repo" />
     </a>
     <a href="https://github.com/nfolkman/Ecommerce-Tech-Site">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfolkman&repo=Ecommerce-Tech-Site&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="Github Repo" />
+     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nfolkman&repo=Ecommerce-Tech-Site&bg_color=000000&text_color=a2aab8&hide_border=true&title_color=61dbfb" alt="Github Repo" />
     </a>
   </p>
 </div>
